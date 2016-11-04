@@ -3,6 +3,10 @@
 
 ***梦想一旦被付诸行动 就会变得神圣 --阿·安·普罗克特***
 
+扫描二维码在手机上观看
+
+![web](./images/web.jpg)
+
 
 * [软性技能](#软性技能)
 	* [不甘平庸](#不甘平庸)
@@ -63,8 +67,9 @@
 
 * **勤奋好学**。快速、持久的学习能力是技术人最重要的素质之一。
 	* 学会翻墙
-		* [曲径](https://getqujing.com)：最好的翻墙工具
-		* VPN：[云梯VPN](https://www.ytvpn.com)
+        * 老D
+        * [曲径](http://www.91qujing.com/)
+        * [云梯VPN](https://www.yuntipub.com/)
 		* VPS：[digitalocean](https://www.digitalocean.com)、[Linode](https://www.linode.com)
 		* Chrome插件：[红杏出墙](http://www.hongxingchajian.com)
 	* 善用Google和[Stackoverflow](http://stackoverflow.com)、[Slideshare](http://www.slideshare.net)
