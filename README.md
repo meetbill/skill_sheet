@@ -86,7 +86,7 @@
 
 ### 乐于沟通
 
-* **乐于沟通**。你可以不喜欢交际，但一定要学会沟通。
+* **乐于沟通**
 	* 及时沟通，信息透明
 	* 尊重他人，[学会提问](http://www.wikihow.com/Ask-a-Question-Intelligently)
 		* [提问的智慧](http://www.beiww.com/doc/oss/smart-questions.html)
@@ -497,7 +497,7 @@
 * 批量配置
     * [xbatch](https://github.com/BillWang139967/xbatch)
 * 监控报警
-    * zabbix
+    * [zabbix 安装](https://github.com/BillWang139967/zabbix_install)
     * [zabbix_manager](https://github.com/BillWang139967/zabbix_manager)
 * 自动化
 	* [ansible](http://www.ansible.com/home)：部署、配置工具
