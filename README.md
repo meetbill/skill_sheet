@@ -1,7 +1,8 @@
 # skill_sheet
 技能表(运筹帷幄)
 
-***仙人指路***
+***梦想一旦被付诸行动 就会变得神圣 --阿·安·普罗克特***
+
 
 * [软性技能](#软性技能)
 	* [不甘平庸](#不甘平庸)
@@ -490,6 +491,9 @@
 ### 运维
 * 批量配置
     * [xbatch](https://github.com/BillWang139967/xbatch)
+* 监控报警
+    * zabbix
+    * [zabbix_manager](https://github.com/BillWang139967/zabbix_manager)
 * 自动化
 	* [ansible](http://www.ansible.com/home)：部署、配置工具
 	* puppet
@@ -560,8 +564,6 @@
 * Python
 * 数据库
 	* [MySQL性能调优与架构设计](http://book.douban.com/subject/3729677/)：阿里资深DBA力作
-* 大数据
-	* [Apache Spark源码剖析](http://book.douban.com/subject/26340294/)：同盾大数据架构师出品
 * 架构
 	* [大型网站系统与Java中间件开发实践](http://book.douban.com/subject/25867042/)：来自淘宝一线架构实践
 * 互联网
@@ -572,4 +574,4 @@
 * 其它
 	* [影响力](http://book.douban.com/subject/1005576/)：你为什么会说“是”？
 * 运维
-    * [运维实践指南](https://github.com/BillWang139967/op_practice_book.git)
+    * [运维实践指南](https://github.com/BillWang139967/op_practice_book/blob/master/SUMMARY.md)
