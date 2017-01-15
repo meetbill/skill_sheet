@@ -494,6 +494,8 @@
 
 
 ### 运维
+* 批量部署
+    * cobbler(用于自动化网络安装操作系统)
 * 批量配置
     * [xbatch](https://github.com/BillWang139967/xbatch)
 * 监控报警
