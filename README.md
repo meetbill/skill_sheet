@@ -501,6 +501,7 @@
 * 监控报警
     * [zabbix 安装](https://github.com/BillWang139967/zabbix_install)
     * [zabbix_manager](https://github.com/BillWang139967/zabbix_manager)
+    * [单机监控 monit](doc/monit.md)
 * 自动化
 	* [ansible](http://www.ansible.com/home)：部署、配置工具
 	* puppet
