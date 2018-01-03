@@ -1,6 +1,7 @@
-# skill_sheet
+# skill_sheet(技能表)
 
-技能表-硬技能的高低决定一个人能否完成某项任务，软技能则会决定一个人成就某项事业的潜力。
+> * 硬技能的高低决定一个人能否完成某项任务，软技能则会决定一个人成就某项事业的潜力。
+> * 做人要学道家，要大气一点；做事要学儒家，要实在一点。
 
 ***梦想一旦被付诸行动 就会变得神圣 -- 阿·安·普罗克特***
 
@@ -9,38 +10,42 @@
 ![web](./images/web.jpg)
 
 <!-- vim-markdown-toc GFM -->
-* [软性技能](#软性技能)
-    * [不甘平庸](#不甘平庸)
-    * [积极主动](#积极主动)
-    * [保持好奇心](#保持好奇心)
-    * [勤奋好学](#勤奋好学)
-    * [乐于沟通](#乐于沟通)
-    * [学会分享](#学会分享)
-    * [团队意识](#团队意识)
-    * [掌握做事方法](#掌握做事方法)
-    * [管理好自己的时间](#管理好自己的时间)
-* [专业技能](#专业技能)
-    * [Linux](#linux)
-    * [Web 前端](#web-前端)
-    * [Java](#java)
-    * [Python](#python)
-    * [其它语言](#其它语言)
-    * [移动开发](#移动开发)
-    * [缓存](#缓存)
-    * [数据库](#数据库)
-    * [代理及负载均衡](#代理及负载均衡)
-    * [大数据](#大数据)
-    * [运维](#运维)
-    * [云计算](#云计算)
-    * [测试](#测试)
-* [环境工具](#环境工具)
-* [推荐阅读](#推荐阅读)
+* [1 软性技能](#1-软性技能)
+    * [1.1 不甘平庸](#11-不甘平庸)
+    * [1.2 积极主动](#12-积极主动)
+    * [1.3 保持好奇心](#13-保持好奇心)
+    * [1.4 勤奋好学](#14-勤奋好学)
+    * [1.5 乐于沟通](#15-乐于沟通)
+    * [1.6 学会分享](#16-学会分享)
+    * [1.7 团队意识](#17-团队意识)
+    * [1.8 掌握做事方法](#18-掌握做事方法)
+    * [1.9 管理好自己的时间](#19-管理好自己的时间)
+* [2 专业技能](#2-专业技能)
+    * [2.1 Linux](#21-linux)
+    * [2.2 Web 前端](#22-web-前端)
+    * [2.3 Java](#23-java)
+    * [2.4 Python](#24-python)
+    * [2.5 其它语言](#25-其它语言)
+    * [2.6 移动开发](#26-移动开发)
+    * [2.7 缓存](#27-缓存)
+    * [2.8 数据库](#28-数据库)
+    * [2.9 代理及负载均衡](#29-代理及负载均衡)
+    * [2.10 大数据](#210-大数据)
+    * [2.11 运维](#211-运维)
+    * [2.12 云计算](#212-云计算)
+    * [2.13 测试](#213-测试)
+* [3 团队管理](#3-团队管理)
+    * [3.1 1 个理念](#31-1-个理念)
+    * [3.2 4个原则](#32-4个原则)
+    * [3.3 7个步骤](#33-7个步骤)
+* [4 环境工具](#4-环境工具)
+* [5 推荐阅读](#5-推荐阅读)
 
 <!-- vim-markdown-toc -->
 
-## 软性技能
+## 1 软性技能
 
-### 不甘平庸
+### 1.1 不甘平庸
 
 * 每个人都有自己的梦想。
 	* 向业界和身边优秀的人看齐
@@ -51,14 +56,14 @@
 		* 代码的可扩展性良好
 		* 重复的工作自动化
 
-### 积极主动
+### 1.2 积极主动
 
 * 态度决定一切。
 	* 发现工作中的问题及时反馈
 	* 自己主动承担把问题解决掉
 	* 协调资源推动他人一起解决
 
-### 保持好奇心
+### 1.3 保持好奇心
 
 * 对技术敏感，知其然也知其所以然。
 	* 追踪最新技术动态
@@ -67,7 +72,7 @@
 	* 尝试一门新的语言
 		* [Clojure](http://clojure.org)：基于 JVM 的 Lisp 方言
 
-### 勤奋好学
+### 1.4 勤奋好学
 
 * 快速、持久的学习能力是技术人最重要的素质之一。
 	* 学会翻墙
@@ -85,7 +90,7 @@
 	* 坚持读好书
 	* 参加技术交流
 
-### 乐于沟通
+### 1.5 乐于沟通
 
 * 及时沟通，信息透明
 * 尊重他人，[学会提问](http://www.wikihow.com/Ask-a-Question-Intelligently)
@@ -107,7 +112,7 @@
     * 及时更新工作进展
     * 追踪重点技术项目
 
-### 学会分享
+### 1.6 学会分享
 
 * 输出是最好的输入。
 	* 记笔记
@@ -119,14 +124,14 @@
 	* 微博 /QQ 群 / 微信群
 	* 技术会议
 
-### 团队意识
+### 1.7 团队意识
 
 * 公司利益大于个人利益，公司利益最大化才能让个人利益最终最大化。
 	* 要有大局观
 	* 杜绝小团伙
 	* 别太在意个人得失
 
-### 掌握做事方法
+### 1.8 掌握做事方法
 
 * 正确的方法可以事半功倍。
 	* Plan（计划）：从问题的定义到行动计划
@@ -137,15 +142,15 @@
     * 不要用战术上的勤奋来掩饰自己战略上的懒惰（雷军）
 * 一个人的工作能力，主要体现在他可以将一个问题拆解成可执行的步骤的能力
 
-### 管理好自己的时间
+### 1.9 管理好自己的时间
 
 * 事情要分轻重缓急，优先做重要并紧急的事情。
 	* [四象限法则](http://baike.baidu.com/link?url=6ofOPtAZzwXaFGWbxpE0m5KdOoBwlKYe6K6-tmPiOWOKFjZX7QI7mIt_F8yuXVJ8gQqJp6Yj-nY5kmdRvmu7Mq)
 	* 摆脱手机依赖症，上班时间少玩手机
 
-## 专业技能
+## 2 专业技能
 
-### Linux
+### 2.1 Linux
 * 常用命令
 	* 文档和目录：ls，pwd，cd，cp，mv，rm，mkdir，cat，find，tar，<，>，tail，head，more，ln，open，touch，sort，uniq
 	* 权限和账户：chown，chmod，passwd，su
@@ -164,7 +169,7 @@
 	* for
 	* 数学运算
 
-### Web 前端
+### 2.2 Web 前端
 * HTTP 协议
 	* [返回码](http://ww4.sinaimg.cn/large/5f60d6b1jw1dh2dkf1ivej.jpg)
 * HTML
@@ -190,7 +195,7 @@
 	* FireFox [FireBug](http://getfirebug.com) 插件
 * [浏览器工作原理](http://taligarsiel.com/Projects/howbrowserswork1.htm)
 
-### Java
+### 2.3 Java
 * 容器类
 	* List
 	* Set
@@ -272,7 +277,7 @@
 	* [Tomcat](http://tomcat.apache.org)：最流行的应用服务器
 	* [Jetty](http://eclipse.org/jetty/)：轻量级的应用服务器
 
-### Python
+### 2.4 Python
 * 集合
 	* list/tuple
 	* dict
@@ -318,13 +323,13 @@
 * 教程
 	* [廖雪峰的 Python 教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 
-### 其它语言
+### 2.5 其它语言
 * [Groovy](http://groovy-lang.org)
 * [Scala](http://www.scala-lang.org)
 * [Lua](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 * [Bash](https://www.gnu.org/software/bash/)
 
-### 移动开发
+### 2.6 移动开发
 * Android
 	- 环境
 	  - Android Studio（推荐）
@@ -436,7 +441,7 @@
 		* 在 API 文档中寻求解决问题的能力
 		* 同时熟悉面对对象和图形化开发
 
-### 缓存
+### 2.7 缓存
 * 本地缓存
 	* [Guava](https://github.com/google/guava) cache
 	* [EHCache](http://ehcache.org)
@@ -452,7 +457,7 @@
 		* [Twemproxy](https://github.com/twitter/twemproxy)
 		* [Codis](https://github.com/wandoulabs/codis)
 
-### 数据库
+### 2.8 数据库
 * MySQL
 	* 存储引擎
 		* MyISAM
@@ -464,13 +469,13 @@
 * [LevelDB](http://www.cnblogs.com/haippy/archive/2011/12/04/2276064.html)：Cassandra 有类似的数据结构
 
 
-### 代理及负载均衡
+### 2.9 代理及负载均衡
 * [HAProxy](http://www.haproxy.org)：高性能的 TCP/HTTP 负载匀衡器
 * [Nginx](http://nginx.org/cn/)：最流行的 Web 服务器和反向代理服务器
 * [Apache](http://httpd.apache.org)：老牌的 Web 服务器
 * [Keepalived](http://www.keepalived.org)：热备切换工具
 
-### 大数据
+### 2.10 大数据
 * 论文
 	* [BigTable](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/bigtable-osdi06.pdf)
 	* [MapReduce](http://static.googleusercontent.com/media/research.google.com/zh-CN/us/archive/mapreduce-osdi04.pdf)
@@ -495,7 +500,7 @@
 
 
 
-### 运维
+### 2.11 运维
 * 批量部署
     * cobbler（用于自动化网络安装操作系统）
 * 批量配置
@@ -503,7 +508,7 @@
 * 监控报警
     * [zabbix 安装](https://github.com/BillWang139967/zabbix_install)
     * [zabbix_manager](https://github.com/BillWang139967/zabbix_manager)
-    * [单机监控 monit](doc/monit.md)
+    * [单机监控 monit](https://github.com/BillWang139967/op_practice_book/blob/master/doc/monitor/monit.md)
 * 自动化
 	* [ansible](http://www.ansible.com/home)：部署、配置工具
 	* puppet
@@ -512,16 +517,42 @@
 	* Docker
 	* Vagent
 	* OpenStack
-### 云计算 
+### 2.12 云计算 
 
 [OpenStack](https://github.com/BillWang139967/openstack_install/wiki)
 
-### 测试
+### 2.13 测试
 * TestNG
 * Selenium
 * Jekins
 
-## 环境工具
+## 3 团队管理
+
+团队管理的1+4+7法则
+
+### 3.1 1 个理念
+
+> * 培养一群善于解决问题的人，而不是自己去解决所有问题！
+
+### 3.2 4个原则
+
+> * 1）员工的方法可以解决问题，哪怕是很笨的方法，也不要干预！
+> * 2）不为问题找责任，鼓励员工多谈哪个方法更有效！
+> * 3）一个方法走不通，引导员工找其他方法！
+> * 4）发现一个方法有效，那就把它教给你的下属；下属有好的方法，记得要学习！
+
+### 3.3 7个步骤
+
+> * 1）创建舒服的工作环境，让员工有更好的积极性、创造性去解决问题。
+> * 2）调节员工的情绪，让员工从积极的角度看问题，找到合理的解决办法。
+> * 3）帮员工把目标分解成一个个动作，让目标清晰有效。
+> * 4）调用你的资源，帮员工解决问题，达到目标。
+> * 5）赞美员工的某个行为，而不是泛泛赞美。
+> * 6）让员工对工作进度做自我评估，让员工找到完成剩余工作的办法。
+> * 7）引导员工“向前看”，少问“你为什么”，多问“你怎么办”。
+
+
+## 4 环境工具
 * **Git**
 	* git add
 	* git clone
@@ -567,7 +598,7 @@
 	* Pocket：跨平台的稍后阅读工具
 	* Xmind：跨平台的思维导图工具
 
-## 推荐阅读
+## 5 推荐阅读
 * Linux
 	* [鸟哥的 Linux 私房菜](http://linux.vbird.org)：学习 Linux 必看
 * Java
