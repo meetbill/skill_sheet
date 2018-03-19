@@ -40,6 +40,8 @@
     * [3.3 7个步骤](#33-7个步骤)
 * [4 环境工具](#4-环境工具)
 * [5 推荐阅读](#5-推荐阅读)
+* [6 面试篇](#6-面试篇)
+    * [6.1 简历](#61-简历)
 
 <!-- vim-markdown-toc -->
 
@@ -77,7 +79,7 @@
 * 快速、持久的学习能力是技术人最重要的素质之一。
 	* 学会翻墙
         * 老 D
-		* VPS：[digitalocean](https://www.digitalocean.com)、[Linode](https://www.linode.com)
+		* VPS
 	* 善用 Google 和 [Stackoverflow](http://stackoverflow.com)、[Slideshare](http://www.slideshare.net)
 	* 订阅技术文章
 		* [Hacker News](https://news.ycombinator.com)：硅谷教父 Paul Granham 创办的 YC 出品
@@ -619,3 +621,7 @@
 	* [影响力](http://book.douban.com/subject/1005576/)：你为什么会说“是”？
 * 运维
     * [运维实践指南](https://github.com/BillWang139967/op_practice_book/blob/master/SUMMARY.md)
+## 6 面试篇
+### 6.1 简历
+> * [吐嘈「个人简历」](https://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)
+> * [如何写打动人的「个人简历」](https://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)
