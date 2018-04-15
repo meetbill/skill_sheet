@@ -5,10 +5,6 @@
 
 ***梦想一旦被付诸行动 就会变得神圣 -- 阿·安·普罗克特***
 
-扫描二维码在手机上观看
-
-![web](./images/web.jpg)
-
 <!-- vim-markdown-toc GFM -->
 * [1 软性技能](#1-软性技能)
     * [1.1 不甘平庸](#11-不甘平庸)
@@ -107,9 +103,8 @@
     * 清晰、明了、美观
         * 使用 [Markdown](http://wowubuntu.com/markdown/) 工具来写
         * [马克飞象](http://maxiang.info)
-        * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
     * 不要敷衍写一句话周报
-    * 目标、过程、结果、思考
+    * 目标、过程(具体的动作)、结果(当前的状态，是否delay，delay 的原因等等)、思考
 * 合理使用 Teambition
     * 及时更新工作进展
     * 追踪重点技术项目
@@ -122,7 +117,7 @@
 		* [有道云笔记](http://note.youdao.com)
 	* 写博客
 		* [为什么要写博客](http://mindhacks.cn/2009/02/15/why-you-should-start-blogging-now/)
-		* [搭建自己的独立博客](https://github.com/BillWang139967/BillWang139967.github.io)
+		* [搭建自己的独立博客](https://github.com/meetbill/meetbill.github.io)
 	* 微博 /QQ 群 / 微信群
 	* 技术会议
 
@@ -506,11 +501,11 @@
 * 批量部署
     * cobbler（用于自动化网络安装操作系统）
 * 批量配置
-    * [xbatch](https://github.com/BillWang139967/xbatch)
+    * [xbatch](https://github.com/meetbill/xbatch)
 * 监控报警
-    * [zabbix 安装](https://github.com/BillWang139967/zabbix_install)
-    * [zabbix_manager](https://github.com/BillWang139967/zabbix_manager)
-    * [单机监控 monit](https://github.com/BillWang139967/op_practice_book/blob/master/doc/monitor/monit.md)
+    * [zabbix 安装](https://github.com/meetbill/zabbix_install)
+    * [zabbix_manager](https://github.com/meetbill/zabbix_manager)
+    * [单机监控 monit](https://github.com/meetbill/op_practice_book/blob/master/doc/monitor/monit.md)
 * 自动化
 	* [ansible](http://www.ansible.com/home)：部署、配置工具
 	* puppet
@@ -521,7 +516,7 @@
 	* OpenStack
 ### 2.12 云计算 
 
-[OpenStack](https://github.com/BillWang139967/openstack_install/wiki)
+[OpenStack](https://github.com/meetbill/openstack_install/wiki)
 
 ### 2.13 测试
 * TestNG
@@ -586,7 +581,7 @@
 * **Linux**
 	- [Terminator](Terminator)：终端多窗口分屏工具
 	- VirtualBox：开源虚拟化软件
-    - [一键打造 Vim IDE](https://github.com/BillWang139967/Vim)
+    - [一键打造 Vim IDE](https://github.com/meetbill/Vim)
 * **Python**
 	- ipython
 	- pip
@@ -620,7 +615,7 @@
 * 其它
 	* [影响力](http://book.douban.com/subject/1005576/)：你为什么会说“是”？
 * 运维
-    * [运维实践指南](https://github.com/BillWang139967/op_practice_book/blob/master/SUMMARY.md)
+    * [运维实践指南](https://github.com/meetbill/op_practice_book/blob/master/SUMMARY.md)
 ## 6 面试篇
 ### 6.1 简历
 > * [吐嘈「个人简历」](https://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)
