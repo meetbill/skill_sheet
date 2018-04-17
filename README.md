@@ -614,6 +614,7 @@
 	* [文明之光](http://book.douban.com/subject/26275177/)：人类如何从蒙昧一步步走向文明
 * 其它
 	* [影响力](http://book.douban.com/subject/1005576/)：你为什么会说“是”？
+    * [现在做什么能让五年后的我收益匪浅](./images/5year.jpg)
 * 运维
     * [运维实践指南](https://github.com/meetbill/op_practice_book/blob/master/SUMMARY.md)
 ## 6 面试篇
