@@ -352,6 +352,8 @@
     * [butterfly](https://github.com/meetbill/butterfly)
 * 教程
 	* [廖雪峰的 Python 教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
+* 反编译
+    * [uncompyle6](https://github.com/rocky/python-uncompyle6) `pip install uncompyle6` 它接受 python 1.3 版到 3.8 版的字节码，这其中跨越了 24 年的 python 版本
 
 ### 2.5 其它语言
 * [Groovy](http://groovy-lang.org)
